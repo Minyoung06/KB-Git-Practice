@@ -7,7 +7,8 @@
     "test": "echo \"Test passed!\" && exit 0",
     "lint": "eslint . --ext .js,.jsx",
     "format": "prettier --write .",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "build": "echo 'no build yet'"
   },
   "keywords": [],
   "author": "",
