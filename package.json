@@ -1,0 +1,15 @@
+{
+  "name": "git-20250428",
+  "version": "1.0.0",
+  "description": "이 저장소는 KB GitHub 특강에서 Git과 GitHub 사용법을 연습하기 위해 만들어졌습니다. 🎯",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
